@@ -1,6 +1,6 @@
 # Phase 3: Defensive Engineering & Logs
 
-This section tracks how the defensive security stack on the Ubuntu Target Server (`192.168.160.135`) detected, logged, and stopped the attacks detailed in Phase 2.
+This section shows how the defensive security stack on the Ubuntu Target Server (`192.168.160.135`) detected, logged, and stopped the attacks detailed in Phase 2.
 
 ## 1. Network Visibility & Alerts (Snort IDS)
 Snort was installed and configured to watch all incoming packets on the main virtual interface.
