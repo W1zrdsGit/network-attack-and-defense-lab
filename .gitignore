@@ -1,0 +1,21 @@
+# --- Virtual Machine Caches & State Files ---
+# Ignores temporary VMware files if you accidentally save files inside your VM shared folders
+*.log
+*.lck
+*.vmem
+*.vmdk
+*.vmsd
+*.vmx
+*.vmxf
+
+# --- OS Metadata Caches ---
+# Ignores background files created by Windows/Mac file explorers
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Office Document Temp Files ---
+# Ignores hidden lock files created when you have your report open in Microsoft Word
+~$*.docx
+~$*.doc
