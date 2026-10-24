@@ -16,7 +16,7 @@ alert tcp any any -> \$HOME_NET 22 (msg:"SECURITY-ALERT: High-Frequency SSH Scan
 ### Telemetry & Alerts Captured
 When the attacker ran the Nmap scan, the Snort detection engine immediately identified the rapid port mapping patterns and wrote real-time alerts to the log file.
 
-![Snort Alert Generation](../images/snort_alerts.png)
+![Snort Alert Generation](/images/snort_alerts.png)
 *Figure 3.2: Snort log console capturing the precise attack signatures coming from the Parrot OS machine (192.168.160.134).*
 
 ---
