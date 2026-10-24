@@ -34,8 +34,8 @@ graph TD
 ```
 ```markdown
 ## Documentation Directory
-1. [Phase 1: Lab Design, Sourcing & Specifications](docs/01_lab_design.md)
-2. [Phase 2: Attack Simulation Playbook](docs/02_attack_simulation.md)
+1. [Phase 1: Lab Design & Specifications](docs/01_lab_design.md)
+2. [Phase 2: Attack Simulation](docs/02_attack_simulation.md)
 3. [Phase 3: Defensive Engineering & Logs](docs/03_defensive_engineering.md)
 4. [Phase 4: Final Evaluation & Hardening Steps](docs/04_conclusions_and_hardening.md)
 ```
