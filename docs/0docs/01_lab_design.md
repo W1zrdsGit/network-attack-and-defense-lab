@@ -22,5 +22,5 @@ The entire lab is completely isolated inside VMware Workstation using a custom h
 | **Attacker** | Parrot OS | 2048 MB | `nmap`, `hydra`, Network Flooding Tools | `192.168.160.134` |
 | **Target** | Ubuntu Server | 2048 MB | `sshd`, Apache `httpd`, Snort (v2.9), Fail2Ban | `192.168.160.135` |
 
-![VMware Configuration](../images/vmware_config.png)
+![VMware Configuration](/images/vmware_config.png)
 *Figure 1.1: Verification of the isolated virtual machine setup inside VMware Workstation.*
