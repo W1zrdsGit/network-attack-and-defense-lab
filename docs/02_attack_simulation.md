@@ -11,7 +11,7 @@ This document details the exact steps, tools, and commands used by the Attacker 
     ```
 *   **Findings:** The scan revealed an active target with open ports including port 22 running an open SSH daemon and port 80 running an Apache web server.
 
-![Nmap Scan Results](../images/nmap_results.png)
+![Nmap Scan Results](/images/nmap_results.png)
 *Figure 2.1: Terminal output from the Nmap scan showing the open services on the Ubuntu target system.*
 
 ---
